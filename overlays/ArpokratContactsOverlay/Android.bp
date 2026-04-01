@@ -1,0 +1,5 @@
+runtime_resource_overlay {
+    name: "ArpokratContactsOverlay",
+    theme: "ArpokratContactsOverlay",
+    product_specific: true,
+}

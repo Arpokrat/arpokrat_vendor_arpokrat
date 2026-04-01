@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="materialColorBackground">#000000</color>
+    <color name="materialColorControlActivated">#F85D4D</color>
+    <color name="materialColorError">#F85D4D</color>
+    <color name="materialColorPrimary">#F85D4D</color>
+    <color name="materialColorPrimaryContainer">#F85D4D</color>
+    <color name="materialColorSurface">#000000</color>
+    <color name="materialColorSurfaceBright">#1A1A1A</color>
+    <color name="materialColorSurfaceContainer">#1A1A1A</color>
+    <color name="materialColorSurfaceContainerHigh">#1A1A1A</color>
+    <color name="materialColorSurfaceContainerHighest">#1A1A1A</color>
+    <color name="materialColorSurfaceContainerLow">#000000</color>
+    <color name="materialColorSurfaceContainerLowest">#000000</color>
+    <color name="materialColorSurfaceDim">#000000</color>
+</resources>

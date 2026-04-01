@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="m3_sys_color_dark_primary">#F85D4D</color>
+    <color name="m3_sys_color_dark_primary_container">#F85D4D</color>
+    <color name="m3_sys_color_dark_on_primary">#FFFFFF</color>
+    <color name="m3_sys_color_dark_on_primary_container">#FFFFFF</color>
+    <color name="m3_sys_color_dark_background">#000000</color>
+    <color name="m3_sys_color_dark_surface">#000000</color>
+    <color name="m3_sys_color_dark_surface_container">#1A1A1A</color>
+    <color name="m3_sys_color_dark_surface_container_high">#1E1E1E</color>
+    <color name="m3_sys_color_dark_surface_container_low">#141414</color>
+    <color name="m3_sys_color_dark_on_background">#FFFFFF</color>
+    <color name="m3_sys_color_dark_on_surface">#FFFFFF</color>
+    <color name="m3_sys_color_dark_error">#F85D4D</color>
+</resources>

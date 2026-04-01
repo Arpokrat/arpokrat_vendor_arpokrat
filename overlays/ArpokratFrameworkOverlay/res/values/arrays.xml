@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="config_defaultFirstUserRestrictions" translatable="false">
+        <item>no_bluetooth</item>
+        <item>no_share_location</item>
+        <item>no_config_tethering</item>
+        <item>no_near_field_communication_radio</item>
+    </string-array>
+</resources>

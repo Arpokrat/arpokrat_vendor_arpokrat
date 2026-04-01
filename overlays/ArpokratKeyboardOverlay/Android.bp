@@ -1,0 +1,5 @@
+runtime_resource_overlay {
+    name: "ArpokratKeyboardOverlay",
+    theme: "ArpokratKeyboard",
+    product_specific: true,
+}

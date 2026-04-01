@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="config_show_wifi_hotspot_settings">false</bool>
+    <bool name="config_show_wifi_hotspot_speed">false</bool>
+    <bool name="config_show_location_services">false</bool>
+    <bool name="config_show_location_scanning">false</bool>
+    
+    <bool name="config_show_top_level_connected_devices">false</bool>
+    
+    <bool name="config_show_wallpaper_attribution">false</bool>
+    <bool name="config_show_manual">false</bool>
+</resources>

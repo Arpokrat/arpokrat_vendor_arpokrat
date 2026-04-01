@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_color">#000000</color>
+    <color name="primary_color_dark">#000000</color>
+    <color name="action_bar_background">#000000</color>
+    <color name="contacts_accent_color">#F85D4D</color>
+    <color name="floating_action_button_icon_color">#FFFFFF</color>
+    <color name="background_primary">#000000</color>
+    <color name="contact_all_list_background_color">#000000</color>
+    <color name="expanding_entry_card_background_color">#1A1A1A</color>
+    <color name="card_margin_color">#000000</color>
+    <color name="list_item_pinned_header_color">#000000</color>
+    <color name="section_header_text_color">#F85D4D</color>
+    <color name="searchbox_background_color">#1A1A1A</color>
+    <color name="search_shortcut_icon_color">#F85D4D</color>
+    <color name="call_arrow_red">#F85D4D</color>
+    <color name="swipe_refresh_color1">#F85D4D</color>
+    <color name="swipe_refresh_color2">#F85D4D</color>
+    <color name="swipe_refresh_color3">#F85D4D</color>
+    <color name="swipe_refresh_color4">#F85D4D</color>
+    <color name="snackbar_background">#1A1A1A</color>
+    <color name="navigation_drawer_background_color">#000000</color>
+    <color name="drawer_selected_color">#1A1A1A</color>
+    <color name="sold_background_color">#000000</color>
+    <color name="navigation_bar_color">#000000</color>
+    <color name="people_app_theme_color">#F85D4D</color>
+</resources>

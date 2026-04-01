@@ -1,0 +1,5 @@
+runtime_resource_overlay {
+    name: "ArpokratPdfViewerOverlay",
+    theme: "ArpokratPdfViewerOverlay",
+    product_specific: true,
+}

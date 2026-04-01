@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="quick_settings_tiles_default" translatable="false">
+        internet,dnd,airplane,flashlight,rotation,alarm,screenrecord,battery,mictoggle,cameratoggle,qr_code_scanner,custom(com.android.permissioncontroller/.permission.service.v33.SafetyCenterQsTileService),custom(org.torproject.android.debug/org.torproject.android.ui.quicksettings.LaunchOrbotTileService),custom(org.torproject.android.debug/org.torproject.android.ui.quicksettings.RefreshConnectionTileService)
+    </string>
+
+    <string name="quick_settings_tiles_new_default" translatable="false">
+        internet,dnd,airplane,flashlight,rotation,alarm,screenrecord,battery,mictoggle,cameratoggle,qr_code_scanner,custom(com.android.permissioncontroller/.permission.service.v33.SafetyCenterQsTileService),custom(org.torproject.android.debug/org.torproject.android.ui.quicksettings.LaunchOrbotTileService),custom(org.torproject.android.debug/org.torproject.android.ui.quicksettings.RefreshConnectionTileService)
+    </string>
+
+    <string name="quick_settings_tiles_stock" translatable="false">
+        internet,flashlight,dnd,modes_dnd,alarm,airplane,controls,rotation,battery,batteryShare,screenrecord,mictoggle,cameratoggle,inversion,reverse,reduce_brightness,qr_code_scanner,onehanded,color_correction,dream,font_scaling,record_issue,hearing_devices,notes,desktopeffects
+    </string>
+
+    <string name="quick_settings_tiles_retail_mode" translatable="false">
+        night,dark,dnd,flashlight,rotation
+    </string>
+
+    <bool name="config_smart_replies_in_notifications_enabled">false</bool>
+    <bool name="config_smart_replies_in_notifications_show_in_heads_up">false</bool>
+
+    <bool name="config_userSwitchingMustGoThroughLoginScreen">true</bool>
+
+    <bool name="config_cameraDoubleTapPowerGestureEnabled">false</bool>
+
+    <bool name="config_enableQrCodeScannerOnLockScreen">false</bool>
+
+    <bool name="config_autoExpandFirstNotification">false</bool>
+</resources>

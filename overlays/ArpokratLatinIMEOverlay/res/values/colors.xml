@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="highlight_color_lxx_dark">#FFF85D4D</color>
+    <color name="gesture_trail_color_lxx_dark">#FFF85D4D</color>
+    <color name="sliding_key_input_preview_color_lxx_dark">#B3F85D4D</color>
+    <color name="key_background_lxx_dark">#FF000000</color>
+    <color name="gesture_floating_preview_color_lxx_dark">#E6000000</color>
+    <color name="emoji_tab_page_indicator_background_lxx_dark">#FF000000</color>
+    <color name="key_background_pressed_lxx_dark">#33F85D4D</color>
+    <color name="suggested_word_background_selected_lxx_dark">#33F85D4D</color>
+
+    <color name="highlight_color_lxx_light">#FFF85D4D</color>
+    <color name="gesture_trail_color_lxx_light">#FFF85D4D</color>
+    <color name="sliding_key_input_preview_color_lxx_light">#B3F85D4D</color>
+    <color name="key_background_pressed_lxx_light">#33F85D4D</color>
+    <color name="suggested_word_background_selected_lxx_light">#33F85D4D</color>
+
+    <color name="notification_accent_color">#FFF85D4D</color>
+</resources>

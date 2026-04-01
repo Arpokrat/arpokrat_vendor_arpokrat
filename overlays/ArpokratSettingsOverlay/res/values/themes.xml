@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Settings" parent="@android:style/Theme.DeviceDefault.Settings">
+        <item name="android:colorPrimary">#FF000000</item>
+        <item name="android:colorPrimaryDark">#FF000000</item>
+        <item name="android:colorAccent">#FFF85D4D</item>
+        <item name="android:colorBackground">#FF000000</item>
+        <item name="android:windowBackground">#FF000000</item>
+        <item name="android:navigationBarColor">#FF000000</item>
+    </style>
+
+    <style name="Theme.Settings.Home" parent="Theme.Settings">
+        <item name="android:colorPrimaryDark">#FF000000</item>
+        <item name="android:navigationBarColor">#FF000000</item>
+        <item name="android:statusBarColor">#FF000000</item>
+        <item name="android:colorBackground">#FF000000</item>
+    </style>
+
+    <style name="Theme.AlertDialog" parent="@android:style/Theme.DeviceDefault.Dialog.Alert">
+        <item name="android:colorAccent">#FFF85D4D</item>
+        <item name="android:colorBackground">#FF121212</item>
+    </style>
+</resources>

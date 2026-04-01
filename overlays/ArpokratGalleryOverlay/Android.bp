@@ -1,0 +1,5 @@
+runtime_resource_overlay {
+    name: "ArpokratGalleryOverlay",
+    theme: "ArpokratGalleryOverlay",
+    product_specific: true,
+}

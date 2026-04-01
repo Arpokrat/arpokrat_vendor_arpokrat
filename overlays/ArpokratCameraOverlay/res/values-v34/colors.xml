@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="m3_sys_color_dynamic_dark_primary">#F85D4D</color>
+    <color name="m3_sys_color_dynamic_dark_primary_container">#F85D4D</color>
+    <color name="m3_sys_color_dynamic_dark_secondary">#F85D4D</color>
+    <color name="m3_sys_color_dynamic_dark_secondary_container">#F85D4D</color>
+    <color name="m3_sys_color_dynamic_light_primary">#F85D4D</color>
+    <color name="m3_sys_color_dynamic_light_secondary">#F85D4D</color>
+    <color name="m3_sys_color_dynamic_primary_fixed">#F85D4D</color>
+    <color name="m3_sys_color_dynamic_primary_fixed_dim">#F85D4D</color>
+
+    <color name="m3_sys_color_dynamic_dark_background">#000000</color>
+    <color name="m3_sys_color_dynamic_dark_surface">#000000</color>
+    <color name="m3_sys_color_dynamic_dark_surface_variant">#121212</color>
+    <color name="m3_sys_color_dynamic_dark_surface_dim">#000000</color>
+    <color name="m3_sys_color_dynamic_dark_surface_bright">#1E1E1E</color>
+    
+    <color name="m3_sys_color_dynamic_dark_surface_container_lowest">#000000</color>
+    <color name="m3_sys_color_dynamic_dark_surface_container_low">#0A0A0A</color>
+    <color name="m3_sys_color_dynamic_dark_surface_container">#121212</color>
+    <color name="m3_sys_color_dynamic_dark_surface_container_high">#1E1E1E</color>
+    <color name="m3_sys_color_dynamic_dark_surface_container_highest">#2A2A2A</color>
+</resources>

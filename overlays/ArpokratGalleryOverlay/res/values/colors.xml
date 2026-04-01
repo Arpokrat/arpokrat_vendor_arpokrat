@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="default_background">#000000</color>
+    <color name="albumset_background">#000000</color>
+    <color name="album_background">#000000</color>
+    <color name="photo_background">#000000</color>
+    <color name="cache_background">#000000</color>
+    <color name="slideshow_background">#000000</color>
+    <color name="review_background">#000000</color>
+
+    <color name="albumset_placeholder">#121212</color>
+    <color name="album_placeholder">#121212</color>
+    <color name="photo_placeholder">#121212</color>
+    <color name="cache_placeholder">#121212</color>
+    <color name="bitmap_screennail_placeholder">#121212</color>
+    <color name="albumset_label_background">#EE121212</color>
+    <color name="popup_background">#FF121212</color>
+
+    <color name="ic_launcher_gallery_background">#F85D4D</color>
+    <color name="ingest_date_tile_text">#F85D4D</color>
+    <color name="review_control_pressed_color">#F85D4D</color>
+    <color name="popup_title_color">#F85D4D</color>
+    <color name="pano_progress_indication">#F85D4D</color>
+    <color name="mode_selection_border">#F85D4D</color>
+    <color name="holo_blue_light">#F85D4D</color>
+
+    <color name="ingest_highlight_semitransparent">#88F85D4D</color>
+    <color name="review_control_pressed_fan_color">#3FF85D4D</color>
+</resources>

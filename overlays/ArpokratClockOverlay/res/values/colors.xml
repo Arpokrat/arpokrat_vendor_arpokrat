@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="default_background">#000000</color>
+    <color name="clock_gray">#B3FFFFFF</color>
+    <color name="hairline">#28FFFFFF</color>
+    <color name="no_alarms">#4CFFFFFF</color>
+</resources>

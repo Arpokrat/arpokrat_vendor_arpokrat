@@ -1,0 +1,5 @@
+runtime_resource_overlay {
+    name: "ArpokratAuditorOverlay",
+    theme: "ArpokratAuditorOverlay",
+    product_specific: true,
+}

@@ -1,0 +1,5 @@
+runtime_resource_overlay {
+    name: "ArpokratFilesOverlay",
+    theme: "ArpokratFilesOverlay",
+    product_specific: true,
+}

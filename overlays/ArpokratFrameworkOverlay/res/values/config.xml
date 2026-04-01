@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="config_tether_supported">false</bool>
+    <bool name="config_show_tether">false</bool>
+
+    <string name="config_icon_mask" translatable="false">"M50,0 C10,0 0,10 0,50 C0,90 10,100 50,100 C90,100 100,90 100,50 C100,10 90,0 50,0 Z"</string>
+    
+    <integer name="config_doublelineClockDefault">0</integer>
+    <integer name="config_defaultNightMode">2</integer>
+
+    <string-array name="theming_defaults">
+        <item>*|MONOCHROMATIC|#F85D4D</item>
+    </string-array>
+
+    <bool name="config_supportsMicToggle">true</bool>
+    <bool name="config_supportsCamToggle">true</bool>
+
+    <bool name="config_sensorPrivacyRequiresAuthentication">true</bool>
+
+    <bool name="config_usbPortSecuritySupported">true</bool>
+    <bool name="config_usb_port_security_applies_to_pogo_pins">true</bool>
+
+    <bool name="config_autoPowerModePrefetchLocation">false</bool>
+
+    <bool name="config_enableGeolocationTimeZoneDetection">false</bool>
+
+    <integer name="config_maxAllowedFailedAuthAttempts">3</integer>
+
+    <bool name="config_strongAuthRequiredOnBoot">true</bool>
+
+    <bool name="config_wirelessConsentRequired">true</bool>
+
+    <bool name="config_lockPatternVisibleDefault">false</bool>
+
+    <bool name="config_lockPinEnhancedPrivacyDefault">true</bool>
+
+    <bool name="config_softwareLskfRateLimiterEnforcing">true</bool>
+
+    <bool name="config_allow_pin_storage_for_unattended_reboot">false</bool>
+
+    <bool name="config_supportPreRebootSecurityLogs">true</bool>
+
+    <bool name="config_dreamsSupported">false</bool>
+
+    <string name="config_defaultDndAccessPackages" translatable="false"></string>
+    <string name="config_defaultListenerAccessPackages" translatable="false"></string>
+
+    <string name="config_default_dns_server" translatable="false">9.9.9.9</string>
+
+    <bool name="config_enableNetworkLocationOverlay">false</bool>
+    <bool name="config_enableFusedLocationOverlay">false</bool>
+    <bool name="config_enableGeocoderOverlay">false</bool>
+    <bool name="config_enableGeofenceOverlay">false</bool>
+
+    <bool name="config_enableAppCloningBuildingBlocks">false</bool>
+
+    <bool name="config_enableVirtualDeviceManager">false</bool>
+
+    <bool name="config_allowFloatingWindowsFillScreen">false</bool>
+
+    <bool name="config_buttonTextAllCaps">false</bool>
+</resources>

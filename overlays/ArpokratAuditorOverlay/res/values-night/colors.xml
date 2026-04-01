@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="graphenePrimaryColor">#F85D4D</color>
+    <color name="grapheneOnPrimaryColor">#FFFFFF</color>
+    <color name="grapheneSurfaceColor">#000000</color>
+    <color name="grapheneSurfaceContainerColor">#1A1A1A</color>
+</resources>
