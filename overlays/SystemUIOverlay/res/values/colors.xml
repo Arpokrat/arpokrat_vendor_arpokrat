@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#FFFFFFFF</color>
+    <color name="colorControlNormal">#FFAAAAAA</color>
+    <color name="instant_apps_color">#FFFFFFFF</color>
+    <color name="lockscreen_color">#FF000000</color>
+    <color name="brightness_color">#FFFFFFFF</color>
+    <color name="volume_color">#FFFFFFFF</color>
+
+    <color name="shade_scrim_background_dark">#FF000000</color>
+    <color name="shade_panel_fallback">#FF000000</color>
+    <color name="notification_legacy_background_color">#FF121212</color>
+    <color name="notification_scrim_base">#FF000000</color>
+    <color name="notification_scrim_fallback">#FF000000</color>
+    <color name="qs_user_switcher_avatar_background">#FF121212</color>
+
+    <color name="notification_primary_text_color">#FFFFFFFF</color>
+    <color name="shade_header_text_color">#FFFFFFFF</color>
+    <color name="shade_header_text_color_bg">#FF000000</color>
+    <color name="notif_pill_text">#FFAAAAAA</color>
+    <color name="notification_divider_color">#FF1A1A1A</color>
+    <color name="qs_tile_divider">#FF1A1A1A</color>
+
+    <color name="quick_settings_color">#FFFFFFFF</color>
+    <color name="qs_detail_button_white">#FFFFFFFF</color>
+    <color name="qs_tile_disabled_color">#FF1A1A1A</color>
+
+    <color name="GM2_blue_300">#FFFFFFFF</color>
+    <color name="GM2_blue_500">#FFFFFFFF</color>
+    <color name="GM2_green_500">#FFFFFFFF</color>
+    <color name="GM2_grey_100">#FF121212</color>
+    <color name="GM2_grey_200">#FF1A1A1A</color>
+    <color name="GM2_grey_300">#FF333333</color>
+    <color name="GM2_grey_500">#FFAAAAAA</color>
+    <color name="GM2_grey_600">#FFAAAAAA</color>
+    <color name="GM2_grey_700">#FF777777</color>
+    <color name="GM2_grey_800">#FF333333</color>
+    <color name="GM2_grey_900">#FF121212</color>
+    <color name="GM2_red_300">#FFAAAAAA</color>
+    <color name="GM2_red_500">#FFAAAAAA</color>
+    <color name="GM2_red_700">#FF777777</color>
+    <color name="GM2_red_800">#FF333333</color>
+    <color name="GM2_yellow_200">#FFFFFFFF</color>
+    <color name="GM2_yellow_500">#FFFFFFFF</color>
+    <color name="red">#FFAAAAAA</color> <color name="global_actions_grid_background">#FF000000</color>
+    <color name="global_actions_separated_background">#FF121212</color>
+    <color name="global_actions_text">#FFFFFFFF</color>
+    <color name="global_actions_alert_text">#FFAAAAAA</color>
+    <color name="global_actions_shutdown_ui_text">#FFFFFFFF</color>
+    
+    <color name="global_actions_lite_emergency_background">#FF121212</color>
+    <color name="global_actions_lite_emergency_background_new_color">#FF121212</color>
+    <color name="global_actions_lite_emergency_icon">#FFFFFFFF</color>
+    <color name="global_actions_lite_emergency_icon_new_color">#FFFFFFFF</color>
+    <color name="global_actions_lite_button_background_focused">#FF1A1A1A</color>
+
+    <color name="control_default_background">#FF121212</color>
+    <color name="control_default_foreground">#FFAAAAAA</color>
+    <color name="control_enabled_default_background">#FFFFFFFF</color>
+    <color name="control_enabled_default_foreground">#FF000000</color>
+    <color name="control_enabled_light_background">#FFFFFFFF</color>
+    <color name="control_enabled_cool_foreground">#FF000000</color>
+    <color name="control_enabled_heat_foreground">#FF000000</color>
+    <color name="control_enabled_thermo_cool_background">#FFFFFFFF</color>
+    <color name="control_enabled_thermo_heat_background">#FFFFFFFF</color>
+    <color name="control_primary_text">#FFFFFFFF</color>
+    <color name="control_secondary_text">#FFAAAAAA</color>
+
+    <color name="media_dialog_background">#FF121212</color>
+    <color name="media_dialog_item_background">#FF1A1A1A</color>
+    <color name="media_dialog_connected_item_background">#FFFFFFFF</color>
+    <color name="media_dialog_button_background">#FF333333</color>
+    <color name="media_dialog_primary">#FFFFFFFF</color>
+    <color name="media_dialog_secondary">#FFAAAAAA</color>
+    <color name="media_dialog_on_primary">#FF000000</color>
+    <color name="media_dialog_seekbar_progress">#FFFFFFFF</color>
+
+    <color name="volume_dialog_background_color">#FF121212</color>
+    <color name="tv_volume_dialog_accent">#FFFFFFFF</color>
+    <color name="tv_volume_dialog_circle">#FFFFFFFF</color>
+    <color name="tv_volume_dialog_seek_bar_background">#FF333333</color>
+    <color name="tv_volume_dialog_seek_bar_fill">#FFFFFFFF</color>
+
+    <color name="biometric_dialog_accent">#FFFFFFFF</color>
+    <color name="biometric_dialog_error">#FFAAAAAA</color>
+    <color name="biometric_dialog_face_checkmark">#FFFFFFFF</color>
+    <color name="biometric_dialog_gray">#FF333333</color>
+    <color name="bouncer_fallback_bg">#FF000000</color>
+    <color name="bouncer_password_focus_color">#FFFFFFFF</color>
+
+    <color name="screenrecord_status_color">#FFAAAAAA</color>
+    <color name="screenrecord_icon_color">#FFFFFFFF</color>
+    <color name="screenshot_color">#FFFFFFFF</color>
+    <color name="navigation_bar_home_handle_dark_color">#FFFFFFFF</color>
+    <color name="navigation_bar_home_handle_light_color">#FFFFFFFF</color>
+    <color name="nav_key_button_shadow_color">#FF000000</color>
+</resources>

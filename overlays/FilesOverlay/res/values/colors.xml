@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="app_background_color">#FF000000</color>
+    <color name="color_surface_header">#FF000000</color>
+    <color name="nav_bar_translucent">#FF000000</color>
+    <color name="tool_bar_gradient_max">#FF000000</color>
+    
+    <color name="background_floating">#FF121212</color>
+    <color name="menu_search_background">#FF121212</color>
+    <color name="item_drag_shadow_background">#FF121212</color>
+    <color name="item_drag_shadow_container_background">#FF000000</color>
+
+    <color name="list_item_selected_background_color">#FF1A1A1A</color>
+    <color name="item_breadcrumb_background_hovered">#FF1A1A1A</color>
+    
+    <color name="band_select_border">#FFFFFFFF</color>
+    <color name="band_select_background">#33FFFFFF</color> 
+    
+    <color name="edge_effect">#FFFFFFFF</color>
+
+    <color name="fragment_pick_active_button_color">#FFFFFFFF</color>
+    <color name="fragment_pick_active_text_color">#FF000000</color>
+    
+    <color name="fragment_pick_inactive_button_color">#FF121212</color>
+    <color name="fragment_pick_inactive_text_color">#FFAAAAAA</color>
+    
+    <color name="work_profile_button_stroke_color">#FF333333</color>
+
+    <color name="tab_selected_text_color">#FFFFFFFF</color>
+    <color name="tab_unselected_text_color">#FFAAAAAA</color>
+    <color name="profile_tab_selected_color">#FFFFFFFF</color>
+    <color name="profile_tab_default_color">#FFAAAAAA</color>
+    
+    <color name="search_chip_text_selected_color">#FF000000</color>
+    <color name="chip_background_disable_color">#FF121212</color>
+
+    <color name="primary">#FFFFFFFF</color>
+    <color name="secondary">#FFAAAAAA</color>
+    
+    <color name="empty_state_text_color">#FFFFFFFF</color>
+    <color name="empty_state_message_text_color">#FFAAAAAA</color>
+    <color name="error_image_color">#FFFFFFFF</color>
+    
+    <color name="doc_list_item_subtitle_enabled">#FFAAAAAA</color>
+    <color name="doc_list_item_subtitle_disabled">#FF333333</color>
+
+    <color name="app_icon_background">#FFFFFFFF</color>
+    <color name="downloads_icon_background">#FFFFFFFF</color>
+    <color name="shortcut_background">#FFFFFFFF</color>
+    <color name="shortcut_foreground">#FF000000</color>
+
+    <color name="hairline">#FF333333</color>
+    <color name="list_divider_color">#FF333333</color>
+</resources>

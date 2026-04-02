@@ -11,26 +11,21 @@ PRODUCT_SYSTEM_DEFAULT_PROPERTIES += \
 
 PRODUCT_PACKAGES += \
     Orbot \
-    ArpokratFrameworkOverlay \
-    ArpokratAuditorOverlay \
-    ArpokratCalculatorOverlay \
-    ArpokratCameraOverlay \
-    ArpokratClockOverlay \
-    ArpokratContactsOverlay \
-    ArpokratFilesOverlay \
-    ArpokratGalleryOverlay \
-    ArpokratMessagingOverlay \
-    ArpokratPdfViewerOverlay \
-    ArpokratSettingsOverlay \
-    ArpokratSystemUIOverlay \
-    ArpokratDialerOverlay \
-    ArpokratSetupWizardOverlay \
-    ArpokratSetupOverlay \
-    ArpokratProviderOverlay \
-    ArpokratSettingsThemeOverlay \
-    ArpokratKeyboardOverlay \
-    ArpokratLauncherOverlay \
-    ArpokratLatinIMEOverlay
+    FrameworkOverlay \
+    CalculatorOverlay \
+    ClockOverlay \
+    ContactsOverlay \
+    MessagingOverlay \
+    PdfViewerOverlay \
+    SettingsOverlay \
+    SystemUIOverlay \
+    SetupWizardOverlay \
+    ProviderOverlay \
+    LauncherOverlay \
+    DialerOverlay \
+    FilesOverlay \
+    GalleryOverlay \
+    LatinIMEOverlay
 
 PRODUCT_COPY_FILES += \
     vendor/arpokrat/media/bootanimation.zip:system/media/bootanimation.zip \

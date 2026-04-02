@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="conversation_background">#FF000000</color>
+    <color name="contact_picker_background">#FF000000</color>
+    <color name="action_bar_background_color">#FF000000</color>
+    <color name="action_bar_background_color_dark">#FF000000</color>
+    <color name="background_material_dark">#FF000000</color>
+    <color name="primary_material_dark">#FF000000</color>
+
+    <color name="primary_color">#FFFFFFFF</color>
+    <color name="fab_color">#FFFFFFFF</color>
+    <color name="compose_message_send_color">#FFFFFFFF</color>
+
+    <color name="message_bubble_color_outgoing">#FFFFFFFF</color> 
+    <color name="message_text_color_outgoing">#FF000000</color>
+
+    <color name="message_bubble_color_incoming">#FF1A1A1A</color> 
+    <color name="message_text_color_incoming">#FFFFFFFF</color>
+    
+    <color name="message_error_bubble_color_incoming">#FF777777</color>
+
+    <color name="background_floating_material_dark">#FF121212</color>
+    <color name="archived_conversation_action_bar_background_color">#FF121212</color>
+    <color name="archived_conversation_action_bar_background_color_dark">#FF121212</color>
+
+    <color name="conversation_list_name">#FFFFFFFF</color>
+    <color name="contact_list_text_primary">#FFFFFFFF</color>
+    <color name="compose_send_text_color">#FFFFFFFF</color>
+
+    <color name="conversation_list_details">#FFAAAAAA</color>
+    <color name="contact_list_text_secondary">#FFAAAAAA</color>
+</resources>

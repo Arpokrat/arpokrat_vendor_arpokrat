@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <color name="work_profile_button_stroke_color">#F85D4D</color>
-    <color name="profile_tab_selected_color">#F85D4D</color>
-    <color name="fragment_pick_active_button_color">#F85D4D</color>
-    <color name="tab_selected_text_color">#F85D4D</color>
-</resources>

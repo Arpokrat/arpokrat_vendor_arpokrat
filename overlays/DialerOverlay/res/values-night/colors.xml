@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dialer_theme_color">#FFFFFFFF</color>
+    <color name="dialer_theme_color_dark">#FFFFFFFF</color>
+    <color name="dialtacts_theme_color">#FFFFFFFF</color>
+    <color name="dialer_primary_color">#FF000000</color>
+    <color name="background_dialer_light">#FF000000</color>
+    <color name="background_dialer_dark">#FF000000</color>
+    <color name="background_dialer_results">#FF000000</color>
+    <color name="background_dialer_list_items">#FF000000</color>
+    <color name="call_log_primary_background_color">#FF000000</color>
+    <color name="statusbar_background_color">#FF000000</color>
+
+    <color name="incall_background_gradient_top">#FF000000</color>
+    <color name="incall_background_gradient_middle">#FF000000</color>
+    <color name="incall_background_gradient_bottom">#FF000000</color>
+    <color name="incall_background_color">#FF000000</color>
+    <color name="incall_dialpad_background">#FF000000</color>
+    <color name="incall_action_bar_background_color">#FF000000</color>
+    <color name="incall_background_multiwindow">#FF000000</color>
+    <color name="compose_and_call_background">#FF000000</color>
+    <color name="videocall_overlay_background_color">#FF000000</color>
+
+    <color name="incall_background_gradient_spam_top">#FF121212</color>
+    <color name="incall_background_gradient_spam_middle">#FF121212</color>
+    <color name="incall_background_gradient_spam_bottom">#FF121212</color>
+    <color name="incall_call_spam_background_color">#FF121212</color>
+    <color name="incall_background_multiwindow_spam">#FF121212</color>
+    <color name="spam_contact_background">#FF121212</color>
+    <color name="blocked_contact_background">#FF121212</color>
+    <color name="blocked_number_block_color">#FF121212</color>
+
+    <color name="dialer_call_green">#FFFFFFFF</color>
+    <color name="dialer_red">#FFAAAAAA</color>
+    <color name="dialer_end_call_button_color">#FFAAAAAA</color>
+    <color name="notification_action_accept">#FFFFFFFF</color>
+    <color name="notification_action_answer_video">#FFFFFFFF</color>
+    <color name="notification_action_dismiss">#FFAAAAAA</color>
+
+    <color name="dialer_divider_line_color">#FF333333</color>
+    <color name="call_composer_divider">#FF333333</color>
+    <color name="call_subject_divider">#FF333333</color>
+    <color name="background_item_grey_pressed">#FF1A1A1A</color>
+    <color name="call_composer_background_color">#FF121212</color>
+
+    <color name="dialer_link_color">#FFFFFFFF</color>
+    <color name="call_subject_button">#FFFFFFFF</color>
+    <color name="conference_call_manager_caller_name_text_color">#FFFFFFFF</color>
+    <color name="conference_call_manager_secondary_text_color">#FFAAAAAA</color>
+    <color name="nav_item_selected">#FFFFFFFF</color>
+    <color name="nav_item">#FFAAAAAA</color>
+    <color name="call_subject_history_icon">#FFFFFFFF</color>
+    <color name="voicemail_playpause_icon_tint">#FFFFFFFF</color>
+    <color name="voicemail_icon_disabled_tint">#FF333333</color>
+    <color name="call_type_icon_read_color">#FFAAAAAA</color>
+    <color name="call_type_icon_unread_color">#FFFFFFFF</color>
+    <color name="feature_icon_read_color">#FFAAAAAA</color>
+    <color name="feature_icon_unread_color">#FFFFFFFF</color>
+
+    <color name="letter_tile_default_color">#FFFFFFFF</color>
+    <color name="letter_tile_font_color">#FF000000</color>
+</resources>

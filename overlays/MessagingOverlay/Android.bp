@@ -1,0 +1,5 @@
+runtime_resource_overlay {
+    name: "MessagingOverlay",
+    certificate: "platform",
+    product_specific: true,
+}

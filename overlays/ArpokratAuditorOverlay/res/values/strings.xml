@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">Arpokrat Auditor</string>
-    <string name="auditor_app_variant_debug">Debug build signed by ArpokratOS</string>
-    <string name="auditor_app_variant_release">Release build signed by ArpokratOS</string>
-    <string name="os_graphene">ArpokratOS</string>
-</resources>

@@ -1,5 +1,0 @@
-runtime_resource_overlay {
-    name: "ArpokratCameraOverlay",
-    theme: "ArpokratCameraOverlay",
-    product_specific: true,
-}

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <bool name="config_show_top_level_connected_devices">false</bool>
-    <bool name="config_disable_location_toggle_for_chrome">true</bool>
-    <bool name="config_show_location_services">false</bool>
-    <bool name="config_show_location_scanning">false</bool>
-    <bool name="config_show_wifi_hotspot_settings">false</bool>
-    <bool name="config_show_wifi_hotspot_speed">false</bool>
-</resources>

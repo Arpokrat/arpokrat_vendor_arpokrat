@@ -1,5 +1,0 @@
-runtime_resource_overlay {
-    name: "ArpokratCalculatorOverlay",
-    theme: "ArpokratCalculatorOverlay",
-    product_specific: true,
-}

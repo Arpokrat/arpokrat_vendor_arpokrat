@@ -1,0 +1,5 @@
+runtime_resource_overlay {
+    name: "LauncherOverlay",
+    certificate: "platform",
+    product_specific: true,
+}

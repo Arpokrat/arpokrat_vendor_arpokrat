@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme" parent="@android:style/Theme.Material.NoActionBar">
+        <item name="android:colorPrimary">@color/calculator_primary_color</item>
+        <item name="android:colorAccent">@color/calculator_accent_color</item>
+        <item name="android:statusBarColor">@color/calculator_statusbar_color</item>
+        <item name="android:windowSoftInputMode">stateAlwaysHidden</item>
+        
+        <item name="android:windowBackground">@color/calculator_primary_color</item>
+        <item name="android:navigationBarColor">@color/calculator_primary_color</item>
+        
+        <item name="android:windowSplashScreenBackground">@color/calculator_primary_color</item>
+    </style>
+</resources>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="setup_background">#FF000000</color>
+    <color name="setup_step_background">#FF121212</color>
+    <color name="setup_welcome_video_margin_color">#FF000000</color>
+    <color name="setup_text_action">#FFFFFFFF</color>
+    <color name="setup_text_dark">#FFAAAAAA</color>
+    <color name="notification_accent_color">#FFFFFFFF</color>
+
+    <color name="key_background_lxx_dark">#FF000000</color>
+    <color name="key_background_lxx_light">#FF000000</color>
+    
+    <color name="key_background_pressed_lxx_dark">#FF1A1A1A</color>
+    <color name="key_background_pressed_lxx_light">#FF1A1A1A</color>
+
+    <color name="key_text_color_lxx_dark">#FFFFFFFF</color>
+    <color name="key_text_color_lxx_light">#FFFFFFFF</color>
+    <color name="key_functional_text_color_lxx_dark">#FFFFFFFF</color>
+    <color name="key_functional_text_color_lxx_light">#FFFFFFFF</color>
+    
+    <color name="key_hint_letter_color_lxx_dark">#FFAAAAAA</color>
+    <color name="key_hint_letter_color_lxx_light">#FFAAAAAA</color>
+    
+    <color name="language_on_spacebar_text_color_lxx_dark">#FF777777</color>
+    <color name="language_on_spacebar_text_color_lxx_light">#FF777777</color>
+    
+    <color name="key_text_inactive_color_lxx_dark">#FF333333</color>
+    <color name="key_text_inactive_color_lxx_light">#FF333333</color>
+
+    <color name="gesture_trail_color_lxx_dark">#FFFFFFFF</color>
+    <color name="gesture_trail_color_lxx_light">#FFFFFFFF</color>
+    
+    <color name="sliding_key_input_preview_color_lxx_dark">#80FFFFFF</color> 
+    <color name="sliding_key_input_preview_color_lxx_light">#80FFFFFF</color>
+    <color name="gesture_floating_preview_color_lxx_dark">#FF121212</color>
+    <color name="gesture_floating_preview_color_lxx_light">#FF121212</color>
+
+    <color name="typed_word_color_lxx_dark">#FFFFFFFF</color>
+    <color name="typed_word_color_lxx_light">#FFFFFFFF</color>
+    <color name="suggested_word_color_lxx_dark">#FFAAAAAA</color>
+    <color name="suggested_word_color_lxx_light">#FFAAAAAA</color>
+    
+    <color name="auto_correct_color_lxx_dark">#FFFFFFFF</color>
+    <color name="auto_correct_color_lxx_light">#FFFFFFFF</color>
+    <color name="highlight_color_lxx_dark">#FFFFFFFF</color>
+    <color name="highlight_color_lxx_light">#FFFFFFFF</color>
+    
+    <color name="suggested_word_background_selected_lxx_dark">#FF1A1A1A</color>
+    <color name="suggested_word_background_selected_lxx_light">#FF1A1A1A</color>
+
+    <color name="emoji_tab_page_indicator_background_lxx_dark">#FF121212</color>
+    <color name="emoji_tab_page_indicator_background_lxx_light">#FF121212</color>
+    <color name="emoji_tab_page_indicator_background_holo">#FF121212</color>
+
+    <color name="gesture_floating_preview_color_holo">#FF121212</color>
+    <color name="highlight_color_ics">#FFFFFFFF</color>
+    <color name="highlight_color_klp">#FFFFFFFF</color>
+    <color name="highlight_translucent_color_ics">#33FFFFFF</color>
+    <color name="highlight_translucent_color_klp">#33FFFFFF</color>
+    <color name="key_hint_label_color_holo">#FFAAAAAA</color>
+    <color name="key_hint_letter_color_holo">#FFAAAAAA</color>
+    <color name="key_shifted_letter_hint_activated_color_holo">#FFFFFFFF</color>
+    <color name="key_shifted_letter_hint_inactivated_color_holo">#FF333333</color>
+    <color name="key_text_color_holo">#FFFFFFFF</color>
+    <color name="key_text_inactivated_color_holo">#FF333333</color>
+    <color name="spacebar_text_color_holo">#FFAAAAAA</color>
+    <color name="spacebar_text_shadow_color_holo">#FF000000</color>
+    <color name="suggested_word_color_ics">#FFAAAAAA</color>
+    <color name="suggested_word_color_klp">#FFAAAAAA</color>
+    <color name="typed_word_color_ics">#FFFFFFFF</color>
+    <color name="typed_word_color_klp">#FFFFFFFF</color>
+
+    <color name="keyboard_background_lxx_dark">#FF000000</color>
+    <color name="keyboard_background_lxx_light">#FF000000</color>
+    <color name="color_accent_lxx_dark">#FFFFFFFF</color>
+    <color name="color_action_key_lxx_dark">#FFFFFFFF</color>
+    <color name="color_action_key_text_lxx_dark">#FF000000</color>
+    <color name="color_accent_lxx_light">#FFFFFFFF</color>
+    <color name="color_action_key_lxx_light">#FFFFFFFF</color>
+    <color name="color_action_key_text_lxx_light">#FF000000</color>
+</resources>

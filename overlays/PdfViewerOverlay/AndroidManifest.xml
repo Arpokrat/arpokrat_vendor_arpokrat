@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.arpokrat.overlay.pdfviewer">
+    <overlay android:targetPackage="app.grapheneos.pdfviewer" android:priority="9999" android:isStatic="true" />
+</manifest>

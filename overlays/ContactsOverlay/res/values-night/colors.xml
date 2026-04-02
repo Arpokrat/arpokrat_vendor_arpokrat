@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="text_color">#FFFFFFFF</color>
+    <color name="primary_text_color">#FFFFFFFF</color>
+    <color name="dialtacts_primary_text_color">#FFFFFFFF</color>
+    <color name="contacts_text_color">#FFFFFFFF</color>
+    <color name="actionbar_text_color">#FFFFFFFF</color>
+    <color name="actionbar_text_color_black">#FFFFFFFF</color>
+    <color name="quickcontact_entry_header_text_color">#FFFFFFFF</color>
+    <color name="searchbox_text_color">#FFFFFFFF</color>
+    <color name="account_filter_text_color">#FFFFFFFF</color>
+
+    <color name="text_color_secondary">#FFAAAAAA</color>
+    <color name="secondary_text_color">#FFAAAAAA</color>
+    <color name="dialtacts_secondary_text_color">#FFAAAAAA</color>
+    <color name="hint_text_color">#FFAAAAAA</color>
+    <color name="searchbox_hint_text_color">#FFAAAAAA</color>
+    <color name="quickcontact_entry_sub_header_text_color">#FFAAAAAA</color>
+    <color name="editor_disabled_text_color">#FF333333</color>
+    <color name="disabled_button_text">#FF333333</color>
+    <color name="disabled_contact_list_name_text">#FF333333</color>
+
+    <color name="primary_color">#FF000000</color>
+    <color name="primary_color_dark">#FF000000</color>
+    <color name="group_primary_color">#FF000000</color>
+    <color name="group_primary_color_dark">#FF000000</color>
+    <color name="background_primary">#FF000000</color>
+    <color name="action_bar_background">#FF000000</color>
+    <color name="actionbar_background_color">#FF000000</color>
+    <color name="contact_all_list_background_color">#FF000000</color>
+    <color name="card_margin_color">#FF000000</color>
+    <color name="list_item_pinned_header_color">#FF000000</color>
+    <color name="navigation_drawer_background_color">#FF000000</color>
+    <color name="sold_background_color">#FF000000</color>
+    <color name="navigation_bar_color">#FF000000</color>
+    <color name="people_app_theme_color">#FF000000</color>
+    <color name="contextual_selection_bar_status_bar_color">#FF000000</color>
+    <color name="shortcut_overlay_text_background">#FF000000</color>
+    <color name="disabled_button_background">#FF000000</color>
+
+    <color name="expanding_entry_card_background_color">#FF000000</color>
+    <color name="searchbox_background_color">#FF000000</color>
+    <color name="snackbar_background">#FF000000</color>
+    <color name="contextual_selection_bar_color">#FF000000</color>
+    <color name="call_subject_history_background">#FF000000</color>
+    <color name="alert_background">#FF000000</color>
+    <color name="nav_item_selected_background">#FF000000</color>
+    <color name="drawer_selected_color">#FF000000</color>
+    <color name="actionbar_color_grey_solid">#FF000000</color>
+    <color name="image_placeholder">#FF000000</color>
+    <color name="divider_line_color_light">#FF1A1A1A</color> 
+    <color name="call_subject_divider">#FF1A1A1A</color>
+    <color name="custom_filter_divider">#FF1A1A1A</color>
+    <color name="drawer_divider_color">#FF1A1A1A</color>
+
+    <color name="contacts_accent_color">#FFF85D4D</color> 
+    <color name="material_star_pink">#FFF85D4D</color>
+    <color name="call_arrow_red">#FFF85D4D</color> 
+    <color name="call_subject_limit_exceeded">#FFF85D4D</color>
+
+    <color name="action_bar_button_text_color">#FFFFFFFF</color>
+    <color name="expanding_entry_card_button_text_color">#FFFFFFFF</color>
+    <color name="swipe_refresh_color1">#FFF85D4D</color> 
+    <color name="swipe_refresh_color2">#FFAAAAAA</color> 
+    <color name="swipe_refresh_color3">#FFF85D4D</color>
+    <color name="swipe_refresh_color4">#FFAAAAAA</color>
+    <color name="section_header_text_color">#FFFFFFFF</color>
+    <color name="search_shortcut_icon_color">#FFFFFFFF</color>
+    <color name="call_subject_button">#FFFFFFFF</color>
+    <color name="snackbar_action_text">#FFF85D4D</color> 
+    <color name="call_arrow_green">#FFFFFFFF</color> 
+    <color name="fab_icon_color">#FF000000</color> 
+    <color name="floating_action_button_icon_color">#FF000000</color>
+    <color name="editor_icon_color">#FFFFFFFF</color>
+    <color name="actionbar_icon_color">#FFFFFFFF</color>
+    <color name="actionbar_icon_color_grey">#FFFFFFFF</color>
+    <color name="call_subject_history_icon">#FFFFFFFF</color>
+    <color name="search_video_call_icon_tint">#FFFFFFFF</color>
+    <color name="device_account_tint_color">#FFFFFFFF</color>
+    <color name="icon_fill_color">#FFFFFFFF</color>
+    <color name="textColorIconOverlay">#FFFFFFFF</color>
+    <color name="textColorIconOverlayShadow">#FF000000</color>
+
+    <color name="letter_tile_default_color">#FF000000</color>
+    <color name="letter_tile_font_color">#FFFFFFFF</color>
+    <color name="quickcontact_default_photo_tint_color">#FFFFFFFF</color>
+    <color name="quickcontact_default_photo_tint_color_dark">#FFFFFFFF</color>
+    <color name="frequently_contacted_title_color">#FFFFFFFF</color>
+
+    <array name="letter_tile_colors">
+        <item>#FF000000</item>
+    </array>
+    <array name="letter_tile_colors_dark">
+        <item>#FF000000</item>
+    </array>
+</resources>

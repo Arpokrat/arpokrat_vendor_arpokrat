@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="default_background">#FF000000</color>
+    <color name="photo_background">#FF000000</color>
+    <color name="slideshow_background">#FF000000</color>
+    <color name="album_background">#FF000000</color>
+    <color name="albumset_background">#FF000000</color>
+    <color name="review_background">#FF000000</color>
+    <color name="cache_background">#FF000000</color>
+
+    <color name="albumset_label_background">#FF121212</color>
+    <color name="popup_background">#FF121212</color>
+    <color name="indicator_background">#FF121212</color>
+    <color name="on_viewfinder_label_background_color">#FF121212</color>
+    <color name="button_dark_transparent_background">#CC000000</color> 
+
+    <color name="holo_blue_light">#FFFFFFFF</color>
+    <color name="mode_selection_border">#FFFFFFFF</color>
+    <color name="ingest_highlight_semitransparent">#33FFFFFF</color>
+    <color name="review_control_pressed_color">#FFFFFFFF</color>
+    <color name="review_control_pressed_fan_color">#33FFFFFF</color>
+    
+    <color name="albumset_label_title">#FFFFFFFF</color>
+    <color name="popup_title_color">#FFFFFFFF</color>
+    <color name="ingest_date_tile_text">#FFFFFFFF</color>
+    <color name="recording_time_elapsed_text">#FFFFFFFF</color>
+    <color name="bright_foreground_holo_dark">#FFFFFFFF</color>
+
+    <color name="albumset_label_count">#FFAAAAAA</color>
+    <color name="recording_time_remaining_text">#FFAAAAAA</color>
+    <color name="gray">#FFAAAAAA</color>
+    <color name="icon_disabled_color">#FF333333</color>
+    <color name="bright_foreground_disabled_holo_dark">#FF333333</color>
+
+    <color name="album_placeholder">#FF121212</color>
+    <color name="albumset_placeholder">#FF121212</color>
+    <color name="bitmap_screennail_placeholder">#FF121212</color>
+    <color name="cache_placeholder">#FF121212</color>
+    <color name="photo_placeholder">#FF121212</color>
+
+    <color name="face_detect_success">#FFFFFFFF</color>
+    <color name="face_detect_start">#FFAAAAAA</color>
+    <color name="face_detect_fail">#FF333333</color>
+    <color name="pano_progress_done">#FFFFFFFF</color>
+    <color name="pano_progress_indication">#FFFFFFFF</color>
+    <color name="pano_progress_indication_fast">#FFFFFFFF</color>
+    <color name="pano_progress_empty">#FF333333</color>
+    <color name="time_lapse_arc">#FFFFFFFF</color>
+    
+    <color name="ic_launcher_gallery_background">#FF000000</color>
+</resources>

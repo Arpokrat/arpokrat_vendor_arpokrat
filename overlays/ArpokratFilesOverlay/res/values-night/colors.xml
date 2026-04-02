@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <color name="app_background_color">#000000</color>
-    <color name="background_floating">#121212</color>
-    <color name="color_surface_header">#000000</color>
-    <color name="primary">#F85D4D</color>
-    <color name="secondary">#3DF85D4D</color>
-    <color name="list_divider_color">#1AFFFFFF</color>
-</resources>

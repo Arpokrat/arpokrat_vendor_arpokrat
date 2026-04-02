@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <color name="widget_picker_secondary_surface_color_dark">#1A1A1A</color>
-    <color name="widget_picker_header_app_title_color_dark">#FFFFFF</color>
-    <color name="widget_picker_header_app_subtitle_color_dark">#B3FFFFFF</color>
-    <color name="widget_cell_title_color_dark">#FFFFFF</color>
-    <color name="widget_cell_subtitle_color_dark">#B3FFFFFF</color>
-    <color name="widget_picker_menu_options_color_dark">#B3FFFFFF</color>
-</resources>

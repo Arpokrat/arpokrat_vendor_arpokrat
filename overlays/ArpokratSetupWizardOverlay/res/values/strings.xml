@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="welcome_to_grapheneos">Welcome to ArpokratOS</string>
-    <string name="grapheneos_icon">ArpokratOS icon</string>
-    <string name="network_location_enabled_desc">Enable network location to determine your location better (such as when indoors) and more efficiently. Nearby wireless signal identifiers will be sent to an Apple server through an ArpokratOS proxy only when network location is being used.</string>
-    <string name="geocoder_enabled_desc">Enable geocoder to allow apps to use a network-based service hosted by ArpokratOS to convert between geographic coordinates and human-readable addresses. Some apps need this for critical functionality.</string>
-    <string name="data_restore_desc">If you have a backup from your previous ArpokratOS device, you can restore it here.</string>
-    <string name="oem_lock_url" translatable="false">arpokratos.org/UBL</string>
-</resources>

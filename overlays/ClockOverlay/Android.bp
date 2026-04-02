@@ -1,0 +1,5 @@
+runtime_resource_overlay {
+    name: "ClockOverlay",
+    certificate: "platform",
+    product_specific: true,
+}

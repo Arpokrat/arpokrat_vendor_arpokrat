@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="sud_color_primary">#FFFFFFFF</color>
+    <color name="sud_color_primary_dark">#FFFFFFFF</color>
+    <color name="sud_color_primary_light">#FFFFFFFF</color>
+    <color name="sud_color_accent_dark">#FFFFFFFF</color>
+    <color name="sud_color_accent_light">#FFFFFFFF</color>
+    <color name="setup_wizard_color_accent_dark">#FFFFFFFF</color>
+    <color name="setup_wizard_color_accent_light">#FFFFFFFF</color>
+    
+    <color name="sud_color_background_dark">#FF000000</color>
+    <color name="sud_color_background_light">#FF000000</color>
+    
+    <color name="sud_color_on_surface_dark">#FFFFFFFF</color>
+    <color name="sud_system_primary_text">#FFFFFFFF</color>
+</resources>

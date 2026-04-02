@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="homepage_about_background">#FF121212</color>
+    <color name="homepage_accessibility_background">#FF121212</color>
+    <color name="homepage_accounts_background">#FF121212</color>
+    <color name="homepage_apps_background">#FF121212</color>
+    <color name="homepage_battery_background">#FF121212</color>
+    <color name="homepage_connected_device_background">#FF121212</color>
+    <color name="homepage_display_background">#FF121212</color>
+    <color name="homepage_hub_mode_background">#FF121212</color>
+    <color name="homepage_location_background">#FF121212</color>
+    <color name="homepage_modes_background">#FF121212</color>
+    <color name="homepage_network_background">#FF121212</color>
+    <color name="homepage_notification_background">#FF121212</color>
+    <color name="homepage_safety_background">#FF121212</color>
+    <color name="homepage_security_background">#FF121212</color>
+    <color name="homepage_sound_background">#FF121212</color>
+    <color name="homepage_storage_background">#FF121212</color>
+    <color name="homepage_supervision_background">#FF121212</color>
+    <color name="homepage_support_background">#FF121212</color>
+    <color name="homepage_system_background">#FF121212</color>
+    <color name="homepage_wallpaper_background">#FF121212</color>
+    <color name="homepage_generic_icon_background">#FF121212</color>
+
+    <color name="homepage_blue_bg">#FF121212</color>
+    <color name="homepage_blue_variant_bg">#FF121212</color>
+    <color name="homepage_cyan_bg">#FF121212</color>
+    <color name="homepage_green_bg">#FF121212</color>
+    <color name="homepage_grey_bg">#FF121212</color>
+    <color name="homepage_orange_bg">#FF121212</color>
+    <color name="homepage_pink_bg">#FF121212</color>
+    <color name="homepage_purple_bg">#FF121212</color>
+    <color name="homepage_red_bg">#FF121212</color>
+    <color name="homepage_yellow_bg">#FF121212</color>
+
+    <color name="homepage_about_foreground">#FFFFFFFF</color>
+    <color name="homepage_accessibility_foreground">#FFFFFFFF</color>
+    <color name="homepage_accounts_foreground">#FFFFFFFF</color>
+    <color name="homepage_apps_foreground">#FFFFFFFF</color>
+    <color name="homepage_battery_foreground">#FFFFFFFF</color>
+    <color name="homepage_connected_device_foreground">#FFFFFFFF</color>
+    <color name="homepage_display_foreground">#FFFFFFFF</color>
+    <color name="homepage_hub_mode_foreground">#FFFFFFFF</color>
+    <color name="homepage_location_foreground">#FFFFFFFF</color>
+    <color name="homepage_modes_foreground">#FFFFFFFF</color>
+    <color name="homepage_network_foreground">#FFFFFFFF</color>
+    <color name="homepage_notification_foreground">#FFFFFFFF</color>
+    <color name="homepage_safety_foreground">#FFFFFFFF</color>
+    <color name="homepage_security_foreground">#FFFFFFFF</color>
+    <color name="homepage_sound_foreground">#FFFFFFFF</color>
+    <color name="homepage_storage_foreground">#FFFFFFFF</color>
+    <color name="homepage_supervision_foreground">#FFFFFFFF</color>
+    <color name="homepage_support_foreground">#FFFFFFFF</color>
+    <color name="homepage_system_foreground">#FFFFFFFF</color>
+    <color name="homepage_wallpaper_foreground">#FFFFFFFF</color>
+
+    <color name="homepage_blue_fg">#FFFFFFFF</color>
+    <color name="homepage_blue_variant_fg">#FFFFFFFF</color>
+    <color name="homepage_cyan_fg">#FFFFFFFF</color>
+    <color name="homepage_green_fg">#FFFFFFFF</color>
+    <color name="homepage_grey_fg">#FFFFFFFF</color>
+    <color name="homepage_orange_fg">#FFFFFFFF</color>
+    <color name="homepage_pink_fg">#FFFFFFFF</color>
+    <color name="homepage_purple_fg">#FFFFFFFF</color>
+    <color name="homepage_red_fg">#FFFFFFFF</color>
+    <color name="homepage_yellow_fg">#FFFFFFFF</color>
+
+    <color name="gm_green_400">#FFFFFFFF</color>
+    <color name="gm_green_500">#FFFFFFFF</color>
+    <color name="gm_red_400">#FFAAAAAA</color>
+    <color name="gm_red_500">#FFAAAAAA</color>
+    <color name="gm_yellow_400">#FFFFFFFF</color>
+    <color name="gm_yellow_500">#FFFFFFFF</color>
+    <color name="gm_grey_900">#FF121212</color>
+    <color name="material_blue_500">#FFFFFFFF</color>
+    <color name="material_blue_700">#FFFFFFFF</color>
+    <color name="material_grey_100">#FF121212</color>
+
+    <color name="palette_list_color_blue">#FFFFFFFF</color>
+    <color name="palette_list_color_cyan">#FFFFFFFF</color>
+    <color name="palette_list_color_gray">#FFAAAAAA</color>
+    <color name="palette_list_color_green">#FFFFFFFF</color>
+    <color name="palette_list_color_orange">#FFFFFFFF</color>
+    <color name="palette_list_color_purple">#FFFFFFFF</color>
+    <color name="palette_list_color_red">#FFAAAAAA</color>
+    <color name="palette_list_color_yellow">#FFFFFFFF</color>
+    <color name="palette_list_dark_mode_color_blue">#FFFFFFFF</color>
+    <color name="palette_list_dark_mode_color_cyan">#FFFFFFFF</color>
+    <color name="palette_list_dark_mode_color_gray">#FFAAAAAA</color>
+    <color name="palette_list_dark_mode_color_green">#FFFFFFFF</color>
+    <color name="palette_list_dark_mode_color_orange">#FFFFFFFF</color>
+    <color name="palette_list_dark_mode_color_purple">#FFFFFFFF</color>
+    <color name="palette_list_dark_mode_color_red">#FFAAAAAA</color>
+    <color name="palette_list_dark_mode_color_yellow">#FFFFFFFF</color>
+    <color name="palette_list_gradient_background">#FF000000</color>
+
+    <color name="contextual_card_background">#FF1A1A1A</color>
+    <color name="contextual_card_dismissal_background">#FF121212</color>
+    <color name="shortcut_background">#FF121212</color>
+    <color name="icon_accent">#FFFFFFFF</color>
+    <color name="icon_launcher_setting_color">#FFFFFFFF</color>
+    <color name="switch_bar_state_disabled_color">#FF333333</color>
+
+    <color name="battery_bad_color_light">#FFAAAAAA</color>
+    <color name="battery_good_color_light">#FFFFFFFF</color>
+    <color name="battery_info_error_color_black">#FFAAAAAA</color>
+    <color name="battery_info_error_color_red">#FFAAAAAA</color>
+    <color name="battery_usage_system_icon_color">#FFFFFFFF</color>
+    
+    <color name="sc_icon_info_dark">#FFFFFFFF</color>
+    <color name="sc_icon_info_light">#FFFFFFFF</color>
+    <color name="sc_icon_recommend_dark">#FFFFFFFF</color>
+    <color name="sc_icon_recommend_light">#FFFFFFFF</color>
+    <color name="sc_icon_warn_dark">#FFAAAAAA</color>
+    <color name="sc_icon_warn_light">#FFAAAAAA</color>
+    <color name="sc_shield_accent">#FFFFFFFF</color>
+    <color name="sc_shield_accent_dark">#FFFFFFFF</color>
+    <color name="sc_shield_accent_fixed_variant">#FFAAAAAA</color>
+    <color name="sc_shield_accent_light">#FFFFFFFF</color>
+
+    <color name="biometric_enroll_intro_color_bar">#FFFFFFFF</color>
+    <color name="biometric_enroll_intro_color_icon">#FFFFFFFF</color>
+    <color name="biometric_enroll_intro_color_outline">#FF333333</color>
+    
+    <color name="face_anim_particle_color_1">#FFFFFFFF</color>
+    <color name="face_anim_particle_color_2">#FFAAAAAA</color>
+    <color name="face_anim_particle_color_3">#FFFFFFFF</color>
+    <color name="face_anim_particle_color_4">#FFAAAAAA</color>
+    <color name="face_anim_particle_error">#FF777777</color>
+    <color name="face_enroll_icon_color">#FFFFFFFF</color>
+
+    <color name="sfps_enrollment_fp_captured_color">#FFFFFFFF</color>
+    <color name="sfps_enrollment_fp_captured_color_expressive">#FFFFFFFF</color>
+    <color name="sfps_enrollment_fp_error_color">#FFAAAAAA</color>
+    <color name="sfps_enrollment_fp_error_color_expressive">#FFAAAAAA</color>
+    <color name="sfps_enrollment_progress_bar_bg_color">#FF121212</color>
+    <color name="sfps_enrollment_progress_bar_bg_color_expressive">#FF121212</color>
+    <color name="sfps_enrollment_progress_bar_error_color">#FFAAAAAA</color>
+    <color name="sfps_enrollment_progress_bar_error_color_expressive">#FFAAAAAA</color>
+    <color name="sfps_enrollment_progress_bar_fill_color">#FFFFFFFF</color>
+    <color name="sfps_enrollment_progress_bar_fill_color_expressive">#FFFFFFFF</color>
+    <color name="fingerprint_enrollment_finish_color_outline">#FFFFFFFF</color>
+    <color name="udfps_enroll_icon">#FFFFFFFF</color>
+    <color name="udfps_enroll_progress">#FFFFFFFF</color>
+    <color name="udfps_enroll_progress_help">#FFAAAAAA</color>
+    <color name="udfps_enroll_progress_help_with_talkback">#FFAAAAAA</color>
+    <color name="udfps_moving_target_fill">#FFFFFFFF</color>
+    <color name="udfps_moving_target_fill_error">#FFAAAAAA</color>
+
+    <color name="SIM_color_blue800">#FFFFFFFF</color>
+    <color name="SIM_color_cyan">#FFAAAAAA</color>
+    <color name="SIM_color_green800">#FF777777</color>
+    <color name="SIM_color_orange">#FFFFFFFF</color>
+    <color name="SIM_color_pink800">#FFAAAAAA</color>
+    <color name="SIM_color_purple800">#FF777777</color>
+    <color name="SIM_dark_mode_color_blue">#FFFFFFFF</color>
+    <color name="SIM_dark_mode_color_cyan">#FFAAAAAA</color>
+    <color name="SIM_dark_mode_color_green">#FF777777</color>
+    <color name="SIM_dark_mode_color_orange">#FFFFFFFF</color>
+    <color name="SIM_dark_mode_color_pink">#FFAAAAAA</color>
+    <color name="SIM_dark_mode_color_purple">#FF777777</color>
+    <color name="sim_noitification">#FFFFFFFF</color>
+
+    <color name="back_gesture_indicator">#FFFFFFFF</color>
+    <color name="gestures_setting_background_color">#FF000000</color>
+
+    <color name="settings_dialog_colorError">#FFAAAAAA</color>
+    <color name="system_secondary">#FFAAAAAA</color>
+    <color name="setup_compat_footer_primary_button_bg_color">#FFFFFFFF</color>
+    <color name="setup_wizard_wifi_color_dark">#FFFFFFFF</color>
+    <color name="setup_wizard_wifi_color_light">#FFFFFFFF</color>
+</resources>

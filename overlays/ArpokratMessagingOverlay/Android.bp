@@ -1,5 +1,0 @@
-runtime_resource_overlay {
-    name: "ArpokratMessagingOverlay",
-    theme: "ArpokratMessagingOverlay",
-    product_specific: true,
-}

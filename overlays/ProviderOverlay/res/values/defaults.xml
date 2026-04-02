@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="def_bluetooth_on">false</bool>
+    <bool name="def_wifi_on">false</bool>
+    <bool name="def_nfc_on">false</bool>
+    <string name="def_location_providers_allowed" translatable="false"></string>
+    <bool name="def_install_non_market_apps">false</bool>
+    <bool name="def_adb_enabled">false</bool>
+    <bool name="def_development_settings_enabled">false</bool>
+    <bool name="def_backup_enabled">false</bool>
+    <integer name="def_location_mode">0</integer>
+    <integer name="def_paired_device_location_mode">0</integer>
+    <bool name="assisted_gps_enabled">false</bool>
+    <bool name="def_usb_mass_storage_enabled">false</bool>
+    <bool name="def_wifi_scan_always_available">false</bool>
+    <bool name="def_lock_screen_show_notifications">false</bool>
+    <integer name="def_screen_off_timeout">30000</integer>
+    <integer name="def_stay_on_while_plugged_in">0</integer>
+</resources>
