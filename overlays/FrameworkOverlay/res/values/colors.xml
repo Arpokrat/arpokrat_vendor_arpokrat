@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <color name="config_defaultThemeColor">#FFF85D4D</color>
+
     <color name="system_surface_tint_dark">#00000000</color>
     <color name="system_surface_tint_light">#00000000</color>
-    
     <color name="elevation_overlay_color">#FF000000</color>
     <color name="elevation_overlay_dark_theme_color">#FF000000</color>
 
@@ -11,91 +12,84 @@
     <color name="system_surface_container_dark">#FF000000</color>
     <color name="system_surface_container_low_dark">#FF000000</color>
     <color name="system_surface_container_lowest_dark">#FF000000</color>
+    <color name="system_surface_container_light">#FF000000</color>
 
-    <color name="accent_device_default">#FFFFFFFF</color>
-    <color name="accent_device_default_dark">#FFFFFFFF</color>
-    <color name="accent_device_default_light">#FFFFFFFF</color>
-    <color name="accent_primary_device_default">#FFFFFFFF</color>
-    <color name="accent_secondary_device_default">#FFAAAAAA</color>
-    <color name="accent_tertiary_device_default">#FF777777</color>
-    <color name="accent_primary_variant_dark_device_default">#FFFFFFFF</color>
-    <color name="accent_primary_variant_light_device_default">#FFFFFFFF</color>
-    
+    <color name="accent_device_default">#FFF85D4D</color>
+    <color name="accent_device_default_dark">#FFF85D4D</color>
+    <color name="accent_device_default_light">#FFF85D4D</color>
+    <color name="accent_primary_device_default">#FFF85D4D</color>
+    <color name="accent_secondary_device_default">#FFF85D4D</color>
+    <color name="accent_tertiary_device_default">#FFFFFFFF</color>
+    <color name="accent_primary_variant_dark_device_default">#FFF85D4D</color>
+    <color name="accent_primary_variant_light_device_default">#FFF85D4D</color>
+
     <color name="background_dark">#FF000000</color>
     <color name="background_light">#FF000000</color>
     <color name="background_device_default_dark">#FF000000</color>
     <color name="background_device_default_light">#FF000000</color>
-    <color name="background_floating_device_default_dark">#FF121212</color>
-    <color name="background_floating_device_default_light">#FF121212</color>
+    <color name="background_floating_device_default_dark">#FF000000</color>
+    <color name="background_floating_device_default_light">#FF000000</color>
+    <color name="system_background_dark">#FF000000</color>
+    <color name="system_background_light">#FF000000</color>
+    <color name="system_surface_dark">#FF000000</color>
+    <color name="system_surface_light">#FF000000</color>
 
     <color name="foreground_device_default_dark">#FFFFFFFF</color>
     <color name="foreground_device_default_light">#FFFFFFFF</color>
     <color name="primary_text_default_material_dark">#FFFFFFFF</color>
     <color name="primary_text_default_material_light">#FFFFFFFF</color>
-
-    <color name="system_accent1_100_dark">#FFFFFFFF</color>
-    <color name="system_accent1_100_light">#FFFFFFFF</color>
-    <color name="system_accent1_200_dark">#FFFFFFFF</color>
-    <color name="system_accent1_200_light">#FFFFFFFF</color>
-    <color name="system_accent1_300_dark">#FFAAAAAA</color>
-    <color name="system_accent1_300_light">#FFAAAAAA</color>
-    <color name="system_accent1_600_dark">#FF777777</color>
-    <color name="system_accent1_600_light">#FF777777</color>
-    <color name="system_accent1_900_dark">#FF1A1A1A</color>
-    <color name="system_accent1_900_light">#FF1A1A1A</color>
-
-    <color name="system_neutral1_100_dark">#FFFFFFFF</color>
-    <color name="system_neutral1_500_dark">#FFAAAAAA</color>
-    <color name="system_neutral1_900_dark">#FF121212</color>
-
-    <color name="system_background_dark">#FF000000</color>
-    <color name="system_background_light">#FF000000</color>
-    <color name="system_surface_dark">#FF000000</color>
-    <color name="system_surface_light">#FF000000</color>
-    <color name="system_surface_container_light">#FF121212</color>
     
-    <color name="system_on_primary_dark">#FF000000</color>
-    <color name="system_on_primary_light">#FF000000</color>
+    <color name="system_on_primary_dark">#FF000000</color> <color name="system_on_primary_light">#FF000000</color>
     <color name="system_on_background_dark">#FFFFFFFF</color>
     <color name="system_on_background_light">#FFFFFFFF</color>
     <color name="system_on_surface_dark">#FFFFFFFF</color>
     <color name="system_on_surface_light">#FFFFFFFF</color>
 
-    <color name="lock_pattern_view_regular_color">#FFFFFFFF</color>
-    <color name="lock_pattern_view_success_color">#FFFFFFFF</color>
-    <color name="lockscreen_clock_background">#FF000000</color>
-    <color name="lockscreen_clock_foreground">#FFFFFFFF</color>
-    <color name="lockscreen_clock_am_pm">#FFFFFFFF</color>
-    
-    <color name="list_divider_color_dark">#FF1A1A1A</color>
-    <color name="list_divider_color_light">#FF1A1A1A</color>
-    <color name="shadow">#FF000000</color>
-    
-    <color name="error_color_device_default_dark">#FFAAAAAA</color>
-    <color name="error_color_device_default_light">#FFAAAAAA</color>
-    <color name="system_error_dark">#FFAAAAAA</color>
-    <color name="system_error_light">#FFAAAAAA</color>
+    <color name="system_accent1_100_dark">#FFF85D4D</color>
+    <color name="system_accent1_100_light">#FFF85D4D</color>
+    <color name="system_accent1_200_dark">#FFF85D4D</color>
+    <color name="system_accent1_200_light">#FFF85D4D</color>
+    <color name="system_accent1_300_dark">#FFF85D4D</color>
+    <color name="system_accent1_300_light">#FFF85D4D</color>
+    <color name="system_accent1_600_dark">#FFF85D4D</color>
+    <color name="system_accent1_600_light">#FFF85D4D</color>
+    <color name="system_accent1_900_dark">#FFF85D4D</color>
+    <color name="system_accent1_900_light">#FFF85D4D</color>
 
-    <color name="notification_default_color_dark">#FF121212</color>
-    <color name="notification_default_color_light">#FF121212</color>
+    <color name="system_neutral1_100_dark">#FFFFFFFF</color>
+    <color name="system_neutral1_500_dark">#FFAAAAAA</color>
+    <color name="system_neutral1_900_dark">#FF000000</color> <color name="lock_pattern_view_regular_color">#FFFFFFFF</color>
+    <color name="lock_pattern_view_success_color">#FFF85D4D</color> <color name="lockscreen_clock_background">#FF000000</color>
+    <color name="lockscreen_clock_foreground">#FFF85D4D</color> <color name="lockscreen_clock_am_pm">#FFFFFFFF</color>
+
+    <color name="list_divider_color_dark">#FF1A1A1A</color> <color name="list_divider_color_light">#FF1A1A1A</color>
+    <color name="shadow">#FF000000</color>
+
+    <color name="error_color_device_default_dark">#FFF85D4D</color>
+    <color name="error_color_device_default_light">#FFF85D4D</color>
+    <color name="system_error_dark">#FFF85D4D</color>
+    <color name="system_error_light">#FFF85D4D</color>
+
+    <color name="notification_default_color_dark">#FF000000</color> <color name="notification_default_color_light">#FF000000</color>
     <color name="notification_primary_text_color_dark">#FFFFFFFF</color>
     <color name="notification_primary_text_color_light">#FFFFFFFF</color>
     <color name="notification_secondary_text_color_dark">#FFAAAAAA</color>
     <color name="notification_secondary_text_color_light">#FFAAAAAA</color>
 
-    <color name="SIM_color_blue">#FFFFFFFF</color>
-    <color name="SIM_color_cyan">#FFAAAAAA</color>
-    <color name="SIM_color_green">#FF777777</color>
-    <color name="SIM_color_orange">#FFFFFFFF</color>
-    <color name="SIM_color_pink">#FFAAAAAA</color>
-    <color name="SIM_color_purple">#FF777777</color>
-    <color name="SIM_dark_mode_color_blue">#FFFFFFFF</color>
-    <color name="SIM_dark_mode_color_cyan">#FFAAAAAA</color>
-    <color name="SIM_dark_mode_color_green">#FF777777</color>
-    <color name="profile_badge_1">#FFFFFFFF</color>
-    <color name="profile_badge_1_dark">#FFFFFFFF</color>
-    <color name="profile_badge_2">#FFAAAAAA</color>
-    <color name="profile_badge_2_dark">#FFAAAAAA</color>
-    <color name="profile_badge_3">#FF333333</color>
-    <color name="profile_badge_3_dark">#FF333333</color>
+    <color name="SIM_color_blue">#FFF85D4D</color>
+    <color name="SIM_color_cyan">#FFFFFFFF</color>
+    <color name="SIM_color_green">#FFAAAAAA</color>
+    <color name="SIM_color_orange">#FFF85D4D</color>
+    <color name="SIM_color_pink">#FFFFFFFF</color>
+    <color name="SIM_color_purple">#FFAAAAAA</color>
+    <color name="SIM_dark_mode_color_blue">#FFF85D4D</color>
+    <color name="SIM_dark_mode_color_cyan">#FFFFFFFF</color>
+    <color name="SIM_dark_mode_color_green">#FFAAAAAA</color>
+
+    <color name="profile_badge_1">#FFF85D4D</color>
+    <color name="profile_badge_1_dark">#FFF85D4D</color>
+    <color name="profile_badge_2">#FFFFFFFF</color>
+    <color name="profile_badge_2_dark">#FFFFFFFF</color>
+    <color name="profile_badge_3">#FFAAAAAA</color>
+    <color name="profile_badge_3_dark">#FFAAAAAA</color>
 </resources>

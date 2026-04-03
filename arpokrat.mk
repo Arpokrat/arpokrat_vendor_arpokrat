@@ -5,27 +5,36 @@ PRODUCT_MODEL := Arpokrat Phone
 
 
 PRODUCT_SYSTEM_DEFAULT_PROPERTIES += \
-    ro.sys.usb.defaultconfig=none \
-    persist.sys.usb.config=none
+    persist.sys.usb.config=none \
+    ro.usb.uvc.enabled=false
+
+
+PRODUCT_VENDOR_PROPERTIES += \
+    persist.vendor.gps.indoor.enabled=false \
+    ro.vendor.gps.atom.enabled=false \
+    ro.vendor.gps.pps.enabled=false \
+    ro.bluetooth.a2dp_offload.supported=false \
+    persist.bluetooth.a2dp_offload.disabled=true \
+    persist.vendor.bluetooth.thread_dispatcher.enabled=false
 
 
 PRODUCT_PACKAGES += \
     Orbot \
-    FrameworkOverlay \
     CalculatorOverlay \
     ClockOverlay \
     ContactsOverlay \
-    MessagingOverlay \
-    PdfViewerOverlay \
-    SettingsOverlay \
-    SystemUIOverlay \
-    SetupWizardOverlay \
-    ProviderOverlay \
-    LauncherOverlay \
     DialerOverlay \
     FilesOverlay \
+    FrameworkOverlay \
     GalleryOverlay \
-    LatinIMEOverlay
+    LatinIMEOverlay \
+    LauncherOverlay \
+    MessagingOverlay \
+    ProviderOverlay \
+    SettingsOverlay \
+    SetupWizardOverlay \
+    SystemUIOverlay
+    
 
 PRODUCT_COPY_FILES += \
     vendor/arpokrat/media/bootanimation.zip:system/media/bootanimation.zip \
@@ -34,3 +43,5 @@ PRODUCT_COPY_FILES += \
     vendor/arpokrat/hardware_overrides/empty_hardware.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/android.hardware.nfc.xml \
     vendor/arpokrat/hardware_overrides/empty_hardware.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/android.hardware.nfc.hce.xml \
     vendor/arpokrat/hardware_overrides/empty_hardware.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/android.hardware.location.gps.xml
+
+$(call inherit-product-if-exists, vendor/arpokrat/products/arpokrat_$(TARGET_DEVICE).mk)

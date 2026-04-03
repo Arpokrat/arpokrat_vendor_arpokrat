@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="deprecated_abi_message_grapheneos">This app only supports 32-bit and therefore isn\'t compatible with more recent devices. If the app is still developed, switch to a build for modern devices. ArpokratOS plans to phase out 32-bit app support on older devices for improved security.</string>
+</resources>
